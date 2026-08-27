@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2C2,50:E8B4B8,100:D9A5A5&height=180&section=header&text=Let%C3%ADcia%20Fantucci%20Medina&fontSize=34&fontColor=3A3A3A&fontAlignY=35&desc=20%20anos%20%C2%B7%20Guarulhos%2FSP%2C%20Brasil&descAlignY=55&descSize=15&descColor=3A3A3A" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=3500&pause=1200&color=B08A8A&center=true&vCenter=true&width=520&lines=estudante+de+ADS;atendimento+e+tecnologia+andando+juntos;fotografia+anal%C3%B3gica+nas+horas+vagas" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3500&pause=1200&color=B08A8A&center=true&vCenter=true&width=520&lines=estudante+de+ADS;atendimento+e+tecnologia+andando+juntos;fotografia+anal%C3%B3gica+nas+horas+vagas" alt="typing" />
 
 </div>
 
@@ -52,7 +52,7 @@ Atendimento ao público com foco em acolhimento e agilidade, cadastro de pacient
 
 **Análise e Desenvolvimento de Sistemas** — Cruzeiro do Sul (início em 2026, previsão de término em 2027)
 **Ensino Médio e Técnico em Modelagem do Vestuário** — ETEC (2022–2024)
-Inglês intermediário — [certificado EFset](https://cert.efset.org/rr5fls)
+Inglês intermediário — [certificado EFset](https://cert.efset.org/rr5FLS)
 
 ---
 
@@ -78,15 +78,6 @@ Conhecimento em boas práticas de desenvolvimento e versionamento de código, al
 ### Competências interpessoais e organizacionais
 
 Comunicação clara e empática · Trabalho em equipe e colaboração · Atendimento humanizado e acolhedor · Organização de documentos e rotinas administrativas · Capacidade de adaptação a diferentes contextos · Proatividade e responsabilidade
-
----
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=wlehtz&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=B08A8A&icon_color=D9A5A5&text_color=3A3A3A" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlehtz&layout=compact&hide_border=true&bg_color=00000000&title_color=B08A8A&text_color=3A3A3A&langs_count=6" />
-
-</div>
 
 ---
 
