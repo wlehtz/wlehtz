@@ -90,6 +90,6 @@ Comunicação clara e empática · Trabalho em equipe e colaboração · Atendim
 
 <sub>obrigada por passar por aqui</sub>
 
-<img width="60%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D9A5A5,50:E8B4B8,100:F4C2C2&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D9A5A5,50:E8B4B8,100:F4C2C2&height=80&section=footer" />
 
 </div>
